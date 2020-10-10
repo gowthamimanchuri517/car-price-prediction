@@ -68,3 +68,4 @@ zipp==3.3.0
 gunicorn
 flask
 requests
+jsonify
